@@ -10,7 +10,7 @@
  *  motif_profile is a 4 x N matrix of nucleotide counts with 
  *      N = motif length and nucleotides order A C G T  
  *
- *  Brian Kolterman 8/2011 : upgraded to profile inputs 8/2012
+ *  Brian Kolterman 8/2012
  *
  *=================================================================*/
 

@@ -8,7 +8,7 @@
  *  overlaps not included
  *  
  *  
- *  Brian Kolterman 9/2011
+ *  Brian Kolterman 9/2012
  *=================================================================*/
 
 

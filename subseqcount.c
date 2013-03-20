@@ -9,7 +9,7 @@
  *  percentage of characters in common
  * 
  *  
- *  Brian Kolterman 8/2011
+ *  Brian Kolterman 8/2012
  *=================================================================*/
 
 

@@ -6,7 +6,7 @@
  *  returns string containing all possible motifs 
  *  of length (motif_size) 
  *  
- *  Brian Kolterman 9/2011
+ *  Brian Kolterman 9/2012
  *=================================================================*/
 
 

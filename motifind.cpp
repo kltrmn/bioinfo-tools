@@ -7,7 +7,7 @@
  *  percentage of characters in common excluding overlapping words
  * 
  *  
- *  Brian Kolterman 8/2011
+ *  Brian Kolterman 8/2012
  *=================================================================*/
 
 
